@@ -1,4 +1,5 @@
 /**
+
  * System Monitoring Script - Production
  * Monitors application health and performance
  */
@@ -10,7 +11,7 @@ const monitorConfig = {
      debugmode: false
    },
    development: {
-     interval: 60000, 
+     interval: 5000, 
      alertThreshold: 80,
      debugmode: true,
      verboseLogging: true
@@ -43,3 +44,4 @@ function checkSystemHealth() {
 console.log(`Monitoring every ${config.interval}ms`);
 setInterval(checkSystemHealth,config.interval);
 checkSystemHealth();
+ 

@@ -11,10 +11,10 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 ## Features
 
 ### Core Feautures
-- Automated deployment scripts
-- Real-time monitoring
-- Configuration management
-- Backup and recovery system
+-Automated deployment scripts
+-Real-time monitoring
+-Configuration management
+-Backup and recovery system
 
 ### Production Feautures
 - SSL/TLS encryption
@@ -29,6 +29,7 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - Enhanced logging
 - Mock external APIs
 
+
 ## Quick Start
 
 ## Production Mode
@@ -39,3 +40,5 @@ export DEPLOY_ENC=production
 export NODE_ENV=development
 npm install
 npm run dev
+
+
