@@ -1,0 +1,28 @@
+*   4753f18 (HEAD -> main, origin/main, origin/HEAD) Merge branch 'main' of https://github.com/Navyavarshini/git-solved-23MH1A4209
+|\  
+| * 6716b5f Add files via upload
+* | e63e91a docs: Add changelog
+* | eda879d Added GIT_JOURNEY documentation
+| | * 4d88427 (origin/feature/another-feature) fest: Add test feature
+| | * c0535f3 (feature/another-feature) feat: Add new feature
+| |/  
+|/|   
+* | e87dd07 (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* | 2b75a8c docs: Add FAQ section
+| | * 6a68fde (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+| |/  
+|/|   
+* | 4e77676 merge: Resolve all conflicts between main and dev branches
+* |   3bb33b2 Merge branch 'conflict-simulator'
+|\ \  
+| * | d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | |   1822e8e merge: Resolve all conflicts between main and dev branches
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 02011a5 (instructor/dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
